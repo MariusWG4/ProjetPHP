@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cds>
+	<cd>
+		<auteur-groupe>Jul</auteur-groupe>
+		<titre>13’organisé</titre>
+		<prix>14.99</prix>
+		<image>Vignettes/13-Organise.jpg</image>
+		<genre>Rap</genre>
+	</cd>
+	<cd>
+		<auteur-groupe>Patrick Sébastien</auteur-groupe>
+		<titre>Pochette surprise</titre>
+		<prix>19.99</prix>
+		<image>Vignettes/Pochette_Surprise.jpg</image>
+		<genre>Joie</genre>
+	</cd>
+	<cd>
+		<auteur-groupe>Carlos</auteur-groupe>
+		<titre>La fête avec Carlos</titre>
+		<prix>0.99</prix>
+		<image>Vignettes/La_fete_avec_carlos.jpg</image>
+		<genre>Joie</genre>
+	</cd>
+	<cd>
+		<auteur-groupe>Rammstein</auteur-groupe>
+		<titre>Mutter</titre>
+		<prix>29.99</prix>
+		<image>Vignettes/Matter.jpg</image>
+		<genre>Hard Rock</genre>
+	</cd>
+		<cd>
+		<auteur-groupe>Mister V</auteur-groupe>
+		<titre>MVP</titre>
+		<prix>79.99</prix>
+		<image>Vignettes/MVP.jpg</image>
+		<genre>Rap</genre>
+	</cd>
+</cds>

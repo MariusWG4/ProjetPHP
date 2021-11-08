@@ -1,2 +1,5 @@
-# ProjoPHP
-ProjetPHP S3
+# projetPHP
+Les login pour se connecter sont : 
+
+Admin
+admin 
