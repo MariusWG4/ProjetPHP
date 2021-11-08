@@ -1,0 +1,34 @@
+body{
+  font-family:Georgia , serif ;
+  margin: 0px;
+  padding: 0px;
+  background-color:rgb(193,193,178);
+}
+
+h1{
+  padding-top: 30px;
+  margin-top: 50% ;
+font-size:25px ;
+
+}
+.Menu{
+  /*mise en place du cadre derrière*/
+  background-color:rgba(66,69,88,0.5);
+  width: 400px;
+  height: auto;
+
+  /*Arrondir les coins */
+  -moz-border-radius:7px;
+  -webkit-border-radius:7px;
+  border-radius:7px;
+
+  margin-left: auto ;
+  margin-right: auto;
+  margin-top: auto;
+  /* Ombre*/
+  box-shadow: 8px 8px 12px #aaa;
+}
+
+.Nav{
+padding-bottom: 30px;
+}

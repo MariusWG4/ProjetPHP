@@ -1,0 +1,58 @@
+body{
+  font-family:Georgia , serif ;
+  margin: 0px;
+  padding: 0px;
+/*  background-color:rgb(193,193,178);*/
+
+background-image:url(Image/Money.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1{
+  padding-top: 30px;
+  margin-top: 50% ;
+font-size:25px ;
+
+/*Couleur multicolor*/
+/*background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+      -webkit-background-clip: text;
+      -moz-background-clip: text;
+      background-clip: text;
+      color: transparent;
+*/
+}
+
+.Menu{
+
+
+/*mise en place du cadre derrière*/
+background-color:rgba(66,69,88,0.5);
+width: 400px;
+height: auto;
+
+/*Arrondir les coins */
+-moz-border-radius:7px;
+-webkit-border-radius:7px;
+border-radius:7px;
+
+margin-left: auto ;
+margin-right: auto;
+margin-top: auto;
+
+/* Ombre*/
+box-shadow: 8px 8px 12px #aaa;
+
+
+}
+
+form{
+margin-top: 50px;
+padding-bottom: 30px;
+}
+
+.commentaire{
+margin-top: 10px;
+font-size:12px ;
+font-style: italic;
+}

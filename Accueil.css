@@ -1,0 +1,95 @@
+body{
+	font-family:'Source code pro' ,Calibri , serif ;
+	margin: 0px;
+	padding: 0px;
+	/* pour un peu de fun */
+	/*background-image:url(Image/pikachu.gif);*/
+}
+
+/* Faire le truc stylé pour présenter les cd */
+.listeCD{
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 50px ;
+	width: 90%;
+	background-color:rgba(66,69,88,0.5);
+
+
+	/*Arrondir le texte*/
+	-moz-border-radius:10px ;
+	-webkit-border-radius:10px ;
+	border-radius:10px ;
+}
+.listeCD ul{
+
+	margin: 20px;
+	padding: 20px;
+	overflow: hidden;
+
+}
+
+.listeCD li{
+
+	list-style-type: none;
+	float: left ;
+	padding: 2% ;
+	width: 200px ;
+
+}
+
+.listeCD a{
+	display: inline-block;
+	text-decoration: none ;
+	color:#FFF ;
+	font-style: italic;
+	background-color:#BBBBBB;
+	width: 200px;
+
+	/*Arrondir le texte*/
+	-moz-border-radius:10px ;
+	-webkit-border-radius:10px ;
+	border-radius:10px ;
+	
+}
+
+
+/*Image*/
+
+img {
+
+	box-shadow: 1px 1px 12px #555;
+
+}
+.arrondie{
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	border-radius:7px;
+}
+
+/* le Truc pour se connecter*/
+
+.Connexion{
+	color:white;
+	background-color:rgb(66,69,88) ;
+	height: 50px;
+	width: 100%;
+	font-size:x-small;
+}
+form{
+	padding:10px ;
+	overflow:hidden ;
+	float : right ;
+}
+.TextConnexion{
+	float: left;
+}
+.boiteTexte{
+	width: 45px ;
+	font-size: xx-small;
+	margin: 0px;
+	float: right;
+}
+.bouton{
+	float: left;
+	font-size: x-small;
+}
