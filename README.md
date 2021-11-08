@@ -1,2 +1,2 @@
-# ProjetPHP
+# ProjoPHP
 ProjetPHP S3
