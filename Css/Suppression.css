@@ -1,0 +1,26 @@
+.supp{
+
+  background-color:rgb(66,69,88);
+  width: 400px;
+  height: auto;
+	padding-bottom: 10px ;
+	padding-top: 20px;
+
+  /*Arrondir les coins */
+  -moz-border-radius:7px;
+  -webkit-border-radius:7px;
+  border-radius:7px;
+
+  margin-left: auto ;
+  margin-right: auto;
+  margin-top: 100px;
+
+	/* Ombre*/
+	box-shadow: 8px 8px 12px #aaa;
+
+	color: #E7E7E7;
+
+}
+img{
+padding-top: 10px ;
+}
